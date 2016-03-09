@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class Multilanguage {
+public class Multi2{
 	
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
@@ -53,9 +53,6 @@ public class Multilanguage {
 						pre=br.readLine();
 					}
 				}	
-				if(j==3999){
-					break;
-				}
 			}						
 		}
 	}
